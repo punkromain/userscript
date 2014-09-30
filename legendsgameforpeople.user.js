@@ -4,7 +4,7 @@
 // @author soloromail@gmail.com (Deimon, Старовер)
 // @include http://legendsgame.ru/*
 // ==/Userscript==
-(function(){dd
+(function(){
 var i=0;
 var tx='';
 speed=100;
