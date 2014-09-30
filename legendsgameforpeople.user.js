@@ -285,7 +285,7 @@ legendsLink(legendsFindLink("Создать группу"), 300/speed);
 
 if(legendsFindText("Пещера")) {
 if(legendsFindText("Выберите необходимого монстра")) {
-legendsLink(legendsFindLink("Химера"), 300/speed);
+legendsLink(legendsFindLink("Тиран"), 300/speed);
 }
 }
 
